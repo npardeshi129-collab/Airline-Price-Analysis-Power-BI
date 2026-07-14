@@ -56,15 +56,16 @@ This project analyzes airline ticket prices using Power BI.
 - Dynamic charts
 - KPI cards
 - Trend analysis
+
 ## 📷 Dashboard Preview
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard-overview.png)
-
+![Dashboard Overview](Screenshot%202026-04-21%20032210.png)
+![Dashboard Overview](Screenshot%202026-04-21%20030116.png)
 ### Analysis Dashboard
 
-![Analysis Dashboard](dashboard-analysis.png)
+![Analysis Dashboard](Screenshot%202026-04-21%20030233.png)
 ## Files
 - Dashboard AIRLINE_PRICE_ANALYSIS 1.pbix
 
